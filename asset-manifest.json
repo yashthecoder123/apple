@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/apple/static/js/main.2a6eadc0.js",
+    "static/media/boat.jfif": "/apple/static/media/boat.c08fc2ed2d21bc1705e0.jfif",
+    "static/media/asus.jpg": "/apple/static/media/asus.02fdf805271cbc925dd4.jpg",
+    "index.html": "/apple/index.html",
+    "main.2a6eadc0.js.map": "/apple/static/js/main.2a6eadc0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2a6eadc0.js"
+  ]
+}
